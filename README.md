@@ -2,4 +2,4 @@
 
 Pour accéder au site:
 
-https://www.boost-yourèsquad.fr
+https://www.boost-your-squad.fr
