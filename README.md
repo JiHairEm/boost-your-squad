@@ -4,7 +4,7 @@
 https://www.boost-your-squad.fr
 
 # Informations
-## Proptiétaire du site
+## Propriétaire du site
 Charlotte Marger
 ## But du site
 Présenter l'activité de Charlotte coach professionnelle et formatrice certifiée.
